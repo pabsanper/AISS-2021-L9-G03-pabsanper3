@@ -381,5 +381,10 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <sonatypeOssDistMgmtSnapshotsUrl>https://oss.sonatype.org/content/repositories/snapshots/</sonatypeOssDistMgmtSnapshotsUrl>
     </properties>
+    <properties>
+        <sonar.projectKey>pabsanper_AISS-2021-L9-G03-pabsanper3</sonar.projectKey>
+        <sonar.organization>pabsanper</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
 
 </project>
